@@ -8,3 +8,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+![praneshnikhar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praneshnikhar&theme=cobalt&show_icons=true&hide_border=true&layout=compact)

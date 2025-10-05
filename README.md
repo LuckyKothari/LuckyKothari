@@ -7,5 +7,5 @@
 </p>
 
 <h3 align="left"></h3>
-<p align="left">  </p>)
+<p align="left">  </p>
 

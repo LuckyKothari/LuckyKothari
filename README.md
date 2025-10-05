@@ -1,12 +1,13 @@
 <h1 align="center">Howdy👋, I'm Lucky Kothari</h1>
 <h3 align="center"></h3>
 
-<h5 align="left">
-🚀Tech Enthusiast <br>
-🔧 Open Source Contributor<br>
-🌱 Currently learning Machine Learning<br>
-🛠️ Tech Stack: Python • C • HTML • C++<br>
-🌍 Let's build something great together<br></h5>
+<body>
+  <p>🧩 I am building a strong foundation Machine Learning.</p>
+  <p>🌐 I work on back-end systems to create web apps.</p>
+  <p>⚙️ I use tools like Python, C, MySQL, HTML and Git.</p>
+  <p>📈 I’m currently diving into DSA in C++.</p>
+</body>
+
 <p align="left">
 
 </p>

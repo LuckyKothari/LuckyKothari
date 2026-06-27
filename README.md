@@ -3,7 +3,7 @@
 
 <body>
   <p>🧩 I am building a strong foundation Machine Learning.</p>
-  <p>🌐 I work on back-end systems to create web apps.</p>
+  <p>🌐 I work on back-end systems to create web apps using Python and its libraries.</p>
   <p>⚙️ I use tools like Python, C, MySQL, HTML and Git.</p>
   <p>📈 I’m currently diving into DSA in C++.</p>
 </body>
